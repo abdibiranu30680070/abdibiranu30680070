@@ -1,12 +1,33 @@
-👋 Hi, I’m @abdibiranu
-👀 I’m interested in ...web development, open source projects, and developing iOS mobile apps.
-🌱 I’m currently learning ...React.js, Node.js, mobile app development, machine learning, and Python.
-💞 I’m looking to collaborate on ...full-stack development projects and Odoo development, including configuring and developing Odoo modules.
-📫 How to reach me ...abdib6103@gmail.com
-😄 Pronouns: ...he/him
-⚡️ Fun fact: ...I love hiking and exploring new trails.
+Hi 👋, I'm Abdi Biranu  
+Software Engineer | Odoo & Full-Stack Developer  
 
-<!---
-abdibiranu30680070/abdibiranu30680070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From Ethiopia | Addis Ababa  
+
+Education  
+BSc Software Engineering, Jigjiga University  
+
+Currently  
+Full-Stack & Odoo Developer @ GA Soft  
+Building custom Odoo modules, React/Node apps, PostgreSQL integrations  
+
+Key Skills  
+- Frontend: React.js, JavaScript, HTML/CSS  
+- Backend: Node.js, Express, Python (Odoo ORM)  
+- ERP: Odoo Custom Development (Modules, QWeb Reports, XML, Invoicing)  
+- DB: PostgreSQL  
+- ML: Scikit-learn, Pandas, NumPy  
+- Tools: Git/GitHub, VS Code, Postman  
+
+Featured Projects  
+- Custom Sales with Store Delivery (Odoo 18): Multi-warehouse sales/reporting module  
+- Hospital Management ERP (Odoo 16): Full system with custom modules  
+- Diabetes Prediction Web App: ML model + React frontend  
+
+Open to  
+Full-stack projects, Odoo customizations/implementation, collaborations  
+
+Reach me: abdib6103@gmail.com  
+LinkedIn: linkedin.com/in/abdi-biranu-2574b3303  
+Pronouns: he/him  
+
+Fun fact: I love hiking and new trails 🥾🌄
